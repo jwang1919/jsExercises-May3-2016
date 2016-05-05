@@ -18,7 +18,7 @@ function exampleTwo(flag) {
 /*
   Create a function named 'checkBirthday' with one parameter.
   Name the parameter anything you want
-  Return "It's you're birthday!" if the parameter is true, otherwise do nothing
+  Return "It's your birthday!" if the parameter is true, otherwise do nothing
   ie:
     checkBirthday(true) -> "It's you're birthday!"
 */
